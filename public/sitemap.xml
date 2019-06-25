@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/</loc>
+    <loc>https://sameer000.github.io/IM/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/blog/</loc>
+    <loc>https://sameer000.github.io/IM/blog/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/categories/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sameer000.github.io/im-hugo/blog/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sameer000.github.io/im-hugo/tags/</loc>
+    <loc>https://sameer000.github.io/IM/categories/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/tags/ipsum/</loc>
+    <loc>https://sameer000.github.io/IM/blog/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sameer000.github.io/IM/tags/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/categories/lorem/</loc>
+    <loc>https://sameer000.github.io/IM/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/blog/hugo-is-for-lovers/</loc>
+    <loc>https://sameer000.github.io/IM/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sameer000.github.io/IM/blog/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/tags/hugo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sameer000.github.io/im-hugo/categories/pseudo/</loc>
+    <loc>https://sameer000.github.io/IM/tags/hugo/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/blog/creating-a-new-theme/</loc>
+    <loc>https://sameer000.github.io/IM/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sameer000.github.io/IM/blog/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/categories/starting/</loc>
+    <loc>https://sameer000.github.io/IM/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/tags/theme/</loc>
+    <loc>https://sameer000.github.io/IM/tags/theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/contact/</loc>
+    <loc>https://sameer000.github.io/IM/contact/</loc>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/blog/installation/</loc>
+    <loc>https://sameer000.github.io/IM/blog/installation/</loc>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/service/</loc>
+    <loc>https://sameer000.github.io/IM/service/</loc>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/work/</loc>
+    <loc>https://sameer000.github.io/IM/work/</loc>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/tags/golang/</loc>
+    <loc>https://sameer000.github.io/IM/tags/golang/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sameer000.github.io/im-hugo/tags/programming/</loc>
+    <loc>https://sameer000.github.io/IM/tags/programming/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Airspace for Hugo</title>
-    <link>https://sameer000.github.io/im-hugo/categories/</link>
+    <link>https://sameer000.github.io/IM/categories/</link>
     <description>Recent content in Categories on Airspace for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://sameer000.github.io/im-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sameer000.github.io/IM/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>lorem</title>
-      <link>https://sameer000.github.io/im-hugo/categories/lorem/</link>
+      <link>https://sameer000.github.io/IM/categories/lorem/</link>
       <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://sameer000.github.io/im-hugo/categories/lorem/</guid>
+      <guid>https://sameer000.github.io/IM/categories/lorem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pseudo</title>
-      <link>https://sameer000.github.io/im-hugo/categories/pseudo/</link>
+      <link>https://sameer000.github.io/IM/categories/pseudo/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
-      <guid>https://sameer000.github.io/im-hugo/categories/pseudo/</guid>
+      <guid>https://sameer000.github.io/IM/categories/pseudo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>starting</title>
-      <link>https://sameer000.github.io/im-hugo/categories/starting/</link>
+      <link>https://sameer000.github.io/IM/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://sameer000.github.io/im-hugo/categories/starting/</guid>
+      <guid>https://sameer000.github.io/IM/categories/starting/</guid>
       <description></description>
     </item>
     
