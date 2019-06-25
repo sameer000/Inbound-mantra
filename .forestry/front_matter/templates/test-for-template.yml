@@ -1,4 +1,18 @@
 ---
 label: Test for template
 hide_body: false
-fields: []
+fields:
+- name: sdfghvbj
+  type: text
+  config:
+    required: false
+  label: sdfghvbj
+  description: wefwqefvwfgwgwgwgwgwg
+- name: rwggwgwgwgwgwg
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: rwggwgwgwgwgwg
+  description: wgwgwgwgwgwgwgwg
