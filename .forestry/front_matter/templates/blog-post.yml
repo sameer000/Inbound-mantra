@@ -1,0 +1,19 @@
+---
+label: Blog Post
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: id
+  label: id
+- type: text
+  name: description
+  label: description
+- type: text
+  name: bgImage
+  label: bgImage
+- type: file
+  name: bgImageAlt
+  label: bgImageAlt
