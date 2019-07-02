@@ -1,0 +1,13 @@
+---
+label: Contact Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: id
+  label: id
+- type: file
+  name: bgImage
+  label: bgImage
